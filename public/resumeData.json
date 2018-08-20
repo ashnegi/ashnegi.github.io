@@ -1,0 +1,179 @@
+{
+  "intro": {
+    "name":"Ashish negi",
+    "occupation":"Web developer, programmer and designer",
+    "place":"Gurgaon",
+    "image":"profilepic.jpg",
+    "email": "ashish77negi@gmail.com",
+    "phone": "555-555-5555",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"http://linkedin.com",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+
+  "about":{
+     "shortBio":"Short ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut ",
+     "bio": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+    "education":[
+      {
+        "school":"University of Tech",
+        "degree":"Master in Graphic Design",
+        "graduated":"April 2007",
+        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
+      },
+      {
+        "school":"School of Cool Designers",
+        "degree":"B.A. Degree in Graphic Design",
+        "graduated":"March 2003",
+        "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
+      }
+    ],
+    "work":[
+      {
+        "id":"1",
+        "company":"Awesome Design Studio",
+        "title":"Senior UX Designer ",
+        "years":"March 2010 - Present",
+        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
+      },
+      {
+        "id": "2",
+        "company":"Super Cool Studio",
+        "title":"UX Designer",
+        "years":"March 2007 - February 2010",
+        "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Photoshop",
+        "level":"60"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55"
+      },
+      {
+        "name":"Wordpress",
+        "level":"50"
+      },
+      {
+        "name":"CSS",
+        "level":"90"
+      },
+      {
+        "name":"HTML5",
+        "level":"80"
+      },
+      {
+        "name":"jQuery",
+        "level":"50"
+      }
+    ]
+  },
+  "portfolio":{
+    "workBio":"Lorem ipsum Dolor adipisicing nostrud et aute Excepteur amet commodo ea dolore irure esse Duis nulla sint fugiat cillum ullamco proident aliquip quis qui voluptate dolore veniam Ut laborum non est in officia.",
+    "projects": [
+      {
+        "title":"one",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustrator",
+        "image":"/assets/images/portfolio/gallery/g-beetle.jpg",
+        "url":"http://port1.com",
+        "id":"0"
+      },
+      {
+        "title":"Console",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Design",
+        "tags":"Branding, Web Development",
+        "image":"/assets/images/portfolio/gallery/g-lighthouse.jpg",
+        "url":"http://port2.com",
+        "id":"1"
+      },
+      {
+        "title":"Judah",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Branding, Web Programming",
+        "image":"/assets/images/portfolio/gallery/g-salad.jpg",
+        "url":"http://port3.com",
+        "id":"2"
+      },
+      {
+        "title":"Into The Light",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Design",
+        "image":"/assets/images/portfolio/gallery/g-woodcraft.jpg",
+        "url":"http://port4.com",
+        "id":"3"
+      },
+      {
+        "title":"Farmer Boy",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Branding",
+        "tags":"Branding, Web Design",
+        "image":"/assets/images/portfolio/gallery/g-skaterboy.jpg",
+        "url":"http://port5.com",
+        "id":"4"
+      },
+      {
+        "title":"Girl",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Graphic Design",
+        "image":"/assets/images/portfolio/gallery/g-liberty.jpg",
+        "url":"http://port6.com",
+        "id":"5"
+      },
+      {
+        "title":"Origami",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustration",
+        "tags":"Branding, Illustration",
+        "image":"/assets/images/portfolio/gallery/g-minimalismo.jpg",
+        "url":"http://port7.com",
+        "id":"6"
+      },
+      {
+        "title":"Retrocam",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Photography",
+        "image":"/assets/images/portfolio/gallery/g-shutterbug.jpg",
+        "url":"http://port8.com",
+        "id":"7"
+      }
+    ]
+  }
+}
